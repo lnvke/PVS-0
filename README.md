@@ -7,7 +7,7 @@ Imaging device is an FPV low light/starlight camera.
 
 SOURCING:
 
-imaging: DONE (RunCam Night Eagle 3)
+imaging: not done(?) (RunCam Night Eagle 3 or Foxeer Mini Cat 4)
 display: NOT DONE (searching)
 lens: NOT DONE (unclear how to do yet)
 print material: NOT DONE (either using a friend's printer or a professional printing service)
